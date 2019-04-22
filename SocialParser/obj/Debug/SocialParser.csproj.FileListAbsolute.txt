@@ -1,0 +1,11 @@
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\bin\Debug\SocialParser.dll
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\bin\Debug\SocialParser.pdb
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\bin\Debug\WebDriver.dll
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\bin\Debug\WebDriver.Support.dll
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\bin\Debug\WebDriver.xml
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\bin\Debug\WebDriver.Support.xml
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\obj\Debug\SocialParser.csprojAssemblyReference.cache
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\obj\Debug\SocialParser.csproj.CoreCompileInputs.cache
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\obj\Debug\SocialParser.csproj.CopyComplete
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\obj\Debug\SocialParser.dll
+C:\Users\vilya\source\repos\KursWorkService\SocialParser\obj\Debug\SocialParser.pdb
